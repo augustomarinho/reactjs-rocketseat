@@ -1,0 +1,1 @@
+npm install -g create-react-app //transpilacao configurado por default
